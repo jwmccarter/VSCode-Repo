@@ -9,7 +9,7 @@ Making another addition in VSC.  Let's see if this uploads.
 <!--  I commented that out then -->
 
 
-But what if I do THIS now?  Is it a new change?
+But what if I do THAT now?  Is it a new change?
 
 Can I do this, committ, then sync? (Without saying publish?)
 
